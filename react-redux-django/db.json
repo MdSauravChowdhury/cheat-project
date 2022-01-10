@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "saurav chowdhury",
+      "username": "saurav12",
+      "email": "saurav@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "alex",
+      "username": "alex",
+      "email": "saurav@gmail.com"
+    },
+    {
+      "name": "James",
+      "username": "bond",
+      "email": "jame@gma.com",
+      "id": 3
+    }
+  ]
+}
